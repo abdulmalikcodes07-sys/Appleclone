@@ -1,4 +1,4 @@
-# Apple Landing Page Clone
+# Landing Page Clone
 
 A responsive Apple-inspired landing page built with HTML and CSS.
 
